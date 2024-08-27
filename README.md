@@ -1,11 +1,11 @@
 # HTML-Vanilla-Vite-Animated-Login
 animated login page using regular html, css, js (set up via vite)
 
-[![GitHub Pages](https://img.shields.io/badge/GitHub-Pages-blue)](https://your-github-username.github.io/repository-name)
+[![GitHub Pages](https://img.shields.io/badge/GitHub-Pages-blue)](https://jason-black.github.io/HTML-Vanilla-Vite-Login-VideoBG/)
 
 ## Live Demo
 
-🚀 **[Check out the live site here!](https://your-github-username.github.io/repository-name)**
+🚀 **[Check out the live site here!](https://jason-black.github.io/HTML-Vanilla-Vite-Login-VideoBG/)**
 
 
 
