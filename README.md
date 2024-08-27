@@ -13,13 +13,10 @@ animated login page using regular html, css, js (set up via vite)
 - 📱 **Responsive Design**: Adapts seamlessly across all devices.
 - ⚡ **Fast Loading**: Optimized for speed and efficiency.
 - 🎨 **Customizable**: Easily modify styles and content.
-- ![Vite](images/vite-logo.png) **Powered by Vite**: Enjoy instant HMR, fast builds, and a modern development environment.
+- <img src="vitelogo.svg" alt="Vite Logo" width="20"/> **Powered by Vite**: Enjoy instant HMR, fast builds, and a modern development environment.
 
 ---
 
-
-
----
 
 ## 🛠️ Installation
 
