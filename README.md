@@ -2,19 +2,19 @@
 animated login page using regular html, css, js (set up via vite)
 
 
-# HTML-Vanilla-Vite-Login-VideoBG
+## HTML-Vanilla-Vite-Login-VideoBG
 
-## Overview
+### Overview
 
 This project is a login page template built with HTML, CSS, and Vanilla JavaScript. It features a video background and is powered by Vite for fast development and building.
 
-## Features
+### Features
 
 - **Video Background**: A visually appealing login page with a full-screen video background.
 - **Responsive Design**: Works across various devices and screen sizes.
 - **Lightweight and Fast**: Built with minimal dependencies using Vite.
 
-## Installation
+### Installation
 
 To run this project locally, follow these steps:
 
